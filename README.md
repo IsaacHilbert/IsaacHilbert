@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsaacHilbert
 - 👀 I’m interested in CD/CI & Cybernetics
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning Docker & K8s
 - 📫 How to reach me: Seceret
 
 <!---
